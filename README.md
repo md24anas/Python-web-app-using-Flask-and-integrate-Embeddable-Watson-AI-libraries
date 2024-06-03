@@ -1,2 +1,2 @@
-# ython-web-app-using-Flask-and-integrate-Embeddable-Watson-AI-libraries
-Using embeddable libraries to create an AI powered Python application.
+# coding-project-template
+This repo is for the practice project which is to be based on Embedded AI libraries. 
